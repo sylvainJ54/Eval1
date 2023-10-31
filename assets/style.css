@@ -23,5 +23,10 @@ ul {
 /* end reset */
 /* start style header */
 
+.carousel-image {
+    height: 300px; /* Définissez la hauteur souhaitée pour les images ici */
+        object-fit: cover;
+    }
+
 
 
