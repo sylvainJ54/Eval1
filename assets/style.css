@@ -1,27 +1,16 @@
-/* reset */
-
-a {
-    color: inherit;
-    text-decoration: none;
-}
-
-ul {
-    list-style: none;
-}
-
+/* rest */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.flux{
-    max-width: 1250px;
-    margin-left: auto;
-    margin-right: auto;
-}
 /* end reset */
-/* start style header */
+
+body{
+    padding-top: 50px;
+  }
+/*  size image carrousel */
 
 .carousel-image {
     height: 300px;
